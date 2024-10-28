@@ -2,5 +2,5 @@
 # PEP 8: Iniciar as variáveis com letras minúsculas
 # Exemplo: nome_variavel
 
-nome_compleo = 'Marcos Boscariol'
-print(nome_compleo)
+nome_completo = 'Marcos Boscariol'
+print(nome_completo)
